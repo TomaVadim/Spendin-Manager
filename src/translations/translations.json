@@ -1,0 +1,48 @@
+{
+  "en": {
+    "translation": {
+      "wellcome": "Welcome, Vadim!",
+      "product": "Name of product..",
+      "price": "Price of product..",
+      "category": "Choice the category:",
+      "title": "How to start?",
+      "toMore": "To learn more about the possibilities, click the button in the right corner of the window..",
+      "moreInfo": "To add a new expense, press the '+' button at the bottom of the screen",
+      "optionAll": "All",
+      "optionFoods": "Foods",
+      "optionClothing": "Clothes",
+      "optionHealth": "Medicine",
+      "optionEducation": "Education",
+      "optionTransport": "Transport",
+      "optionPets": "Pets",
+      "optionBills": "Bills",
+      "optionElectronics": "Electronics",
+      "burgerHow": "How to start",
+      "burgerCategory": "Categories",
+      "burgerAbout": "About us"
+    }
+  },
+  "ua": {
+    "translation": {
+      "wellcome": "Вітаю, Вадим!",
+      "product": "Назва товару..",
+      "price": "Вартість товару..",
+      "category": "Оберіть категорію:",
+      "title": "Як почати?",
+      "toMore": "Щоб дізнатись більше про можливості, натисніть кнопку в правому кутку вікна..",
+      "moreInfo": "Для додавння нової витрати натисніть кнопку '+' в нижній частині екрану",
+      "optionAll": "Всі",
+      "optionFoods": "Харчування",
+      "optionClothing": "Одяг",
+      "optionHealth": "Медицина",
+      "optionEducation": "Освіта",
+      "optionTransport": "Транспорт",
+      "optionPets": "Улюбленці",
+      "optionBills": "Білети",
+      "optionElectronics": "Гаджети",
+      "burgerHow": "Як почати",
+      "burgerCategory": "Категорії",
+      "burgerAbout": "Про нас"
+    }
+  }
+}
